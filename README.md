@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=HyeongJin%20Kim&fontSize=90)
 
 # About me
- - 😀 HyeongJin Kim (AKA. HyonJin, Dimitri, Dima)
- - 👨‍💻 21 Years old dude
- - 🇰🇷 Born & Living in Korea
- - 💤 Sleep 14 hours a day on average
+ - &#x1F600; HyeongJin Kim (AKA. HyonJin, Dimitri, Dima)
+ - &#x1F468;&#x200D;&#x1F4BB; 23 Years old dude
+ - &#x1F1F0;&#x1F1F7; Born & Living in Korea
 
 # I have Experienced in
 ![C](https://img.shields.io/badge/C-eeeeee.svg?&style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -28,11 +27,7 @@
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-eeeeee.svg?&style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 # Interested in
- - 🔍 Penetration Testing
- - 🛡 Game Hacking
- - 🪛 Reverse Engineering
- - 💻 Virtual Machines
-
-# Favorite games to play
- - 🔫 Counter-Strike: Global Offensive
- - 🔫 Valorant
+ - &#x1F528; Penetration Testing
+ - &#x1F6E1; Game Hacking
+ - &#x1FA9B; Reverse Engineering
+ - &#x1F4BB; Virtual Machines
